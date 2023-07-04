@@ -1,3 +1,3 @@
 <!--# marcelsantana.github.io-->
 <h2 align="center">This repository is responsible for my personal github page.</h2>
-<p align="center">The focus of this page is show informations about my career with my résumé website.</p>
+<p align="center">The focus of this page is show informations about my career with my résumé website I want to use it to showcase my skills and experience to potential employers. I also want to use it to network and build relationships with people in my area. I plan to update my résumé website regularly to ensure that my skills and experience are accurately reflected. I also hope to use the website to connect with recruiters and hiring managers in the industry. Finally, I want to use the website to provide value to employers by highlighting my skills and knowledge.</p>
